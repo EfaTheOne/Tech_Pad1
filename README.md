@@ -16,7 +16,11 @@ The case fits together using the M3 16mm bolts and was built using only the Tuto
 
 # BOM
 6 MK Switch
+
 6 Blank Keycaps
+
 Seeed XIAO RP2040
+
 6 SK6812 MINI-E LED
+
 TechPad1 PCB
